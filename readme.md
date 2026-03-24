@@ -23,26 +23,20 @@
 ### 技术栈
 
 <p align="left">
-<img width="100%" height="32" src="https://go-skill-icons.vercel.app/api/icons?i=html,js,css,py,git,md" alt="Skill Icons" title="Skill Icons">
+<img width="100%" height="32" src="https://go-skill-icons.vercel.app/api/icons?i=html,js,css,py,git,md,nodejs" alt="Skill Icons" title="Skill Icons">
 </p>
-
-
 
 ### Github Stats  
 
-<table>
-<tr>
-<td valign="top" width="48%">
-
-<img src="https://github-readme-stats-pi-pied-31.vercel.app/api?username=a552422934&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&&number_format=long&include_all_commits=true" />
-
-</td>
-<td valign="top" width="48%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a552422934&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td>
-</tr>
+<table style="border-collapse: collapse; border-bottom: none;">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats-pi-pied-31.vercel.app/api?username=a552422934&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&&number_format=long&include_all_commits=true" />
+    </td>
+    <td >
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a552422934&hide_border=true&layout=compact" align="left" style="width: 100%" />
+    </td>
+  </tr>
 </table>  
 
 <p align="center">
